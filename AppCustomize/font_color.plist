@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>color_navibar_title</key>
+	<string>#FFFFFF</string>
+	<key>color_navibar_bg</key>
+	<string>#EC4E44</string>
+	<key>color_vc_view_bg</key>
+	<string>#f0f0f0</string>
+	<key>color_main</key>
+	<string>#f44f44</string>
+	<key>color_bar_background</key>
+	<string>#f8f8f8</string>
+	<key>color_tabbar_normal</key>
+	<string>#000000</string>
+	<key>font_0</key>
+	<dict>
+		<key>name</key>
+		<string>Helvetica</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>font_1</key>
+	<dict>
+		<key>name</key>
+		<string>Helvetica</string>
+		<key>size</key>
+		<integer>14</integer>
+	</dict>
+</dict>
+</plist>
